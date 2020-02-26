@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\bin\Debug\ImagePNG.exe.config
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\bin\Debug\ImagePNG.exe
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\bin\Debug\ImagePNG.pdb
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\obj\Debug\ImagePNG.csprojAssemblyReference.cache
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\obj\Debug\ImagePNG.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\obj\Debug\ImagePNG.exe
+C:\Users\User\source\repos\a\ImagePNG\ImagePNG\obj\Debug\ImagePNG.pdb
