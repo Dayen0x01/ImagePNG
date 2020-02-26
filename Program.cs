@@ -123,7 +123,7 @@ namespace ImagePNG
             WriteFormattedLine("[*] ImagePNG create by {0}", param);
             WriteFormattedLine("\n[*] Version {0}", new string[] { "1.0" });
             WriteFormattedLine("\n[*] Contact: {0}", new string[] { "https://www.instagram.com/neydame" });
-            Console.Write("\n[*] Select a option: ");
+            Console.Write("\n[*] Select an option: ");
             WriteFormattedLine("\n  [{0}] - Convert image to {1}\n  [{2}] - Compress {3}", new string[] {"1","PNG","2","JPG" });
             Console.Write("\n[*] Select: ");
             string response = Console.ReadLine();
